@@ -90,7 +90,8 @@ d) Exportamos os dados obtidos para o formato .csv e importamos em uma planilha 
 
 a) Observamos uma correlação evidente entre a proporção de cesáreas em relação ao dia da semana. Ao longo dos anos, é consistente a queda na proporção de cesáreas nos sábados e domingos. Em 2021, por exemplo, apenas 2 domingos registraram número de cesáreas maior do que 50%, sendo que a média diária para o mesmo ano é de aproximadamente 57% de cesáreas.
 
-b) Não foi possível identificar correlação específica entre a proporção de cesáreas e vésperas de feriados. Um possível refinamento dessa pergunta poderia partir da diferenciação entre dados da rede pública e da rede privada. 
+b) Não foi possível identificar correlação específica entre a proporção de cesáreas e vésperas de feriados. Um possível refinamento dessa pergunta poderia partir da diferenciação entre dados da rede pública e da rede privada.
+
 c) Tampouco foi possível identificar possíveis efeitos da pandemia sobre essas proporções, visto que as linhas dos 3 anos analisados (2019, 2020 e 2021) são bastante similares.
 
 d) Especialistas alegam que não é admitido fazer uma cesariana antes das 39 semanas de gestação - quando não tem recomendação médica. Mas o Brasil tem um elevado índice de cesarianas sem indicação. A ideia da nossa pauta seria mostrar quando se concentram essas cesáreas. Segundo médicos que conversamos, na saúde suplementar, principalmente, é muito comum um obstetra fazer 4 ou 5 cesáreas no mesmo dia, porque existe a possibilidade de agendamento. Isso sugere um possível comodismo entre os profissionais de saúde, que não respeitam o tempo natural do trabalho de parto e optam pela facilidade. Com isso, médicos marcam cesáreas antes do período certo e isso pode afetar a saúde do bebê e da mãe.
