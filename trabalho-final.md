@@ -32,7 +32,7 @@ ETLSINASC.DNRES_SP_2020_t.csv
 ETLSINASC.DNRES_SP_2021_t.csv
 c) Filtramos e agrupamos os dados por data de nascimento e tipo de parto, repetindo o processo para cada ano, utilizando o seguinte código:
 
-'''EXECUTANDO TUDO EM 'estrutura da tabela'
+```EXECUTANDO TUDO EM 'estrutura da tabela'
 
 Na linha 1:
 SELECT * 
@@ -66,7 +66,7 @@ FROM
     SP2021
 GROUP BY 
     DTNASC;
-Resulto: 365 linhas retornadas em 2575 ms'''
+Resulto: 365 linhas retornadas em 2575 ms```
 
 
 d) Exportamos os dados obtidos para o formato .csv e importamos em uma planilha do Google Sheets, realizando as seguintes operações:
