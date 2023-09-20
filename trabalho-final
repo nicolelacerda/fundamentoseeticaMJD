@@ -1,10 +1,10 @@
-Trabalho Final da disciplina Fundamentos e Ética do Jornalismo de Dados, do Master em Jornalismo de Dados, Automação e Data Storytelling, do Insper
-Integrantes do grupo: Gabriela Bertolo, Melissa Duarte, Michelly Neris, Nicole Lacerda e Paulo Fehlauer
-Professores: Luiz Fernando Toledo e Natália Mazotte 
+### Trabalho Final da disciplina Fundamentos e Ética do Jornalismo de Dados, do Master em Jornalismo de Dados, Automação e Data Storytelling, do Insper
+### Integrantes do grupo: Gabriela Bertolo, Melissa Duarte, Michelly Neris, Nicole Lacerda e Paulo Fehlauer
+### Professores: Luiz Fernando Toledo e Natália Mazotte 
 
 O objetivo do projeto final é demonstrar conhecimentos aplicados de entrevista a bases de dados utilizando planilha eletrônica e/ou SQL. Para isso, você deverá seguir os passos abaixo:
 
-1.Escolha ao menos uma base de dados pública para trabalhar. Justifique em um parágrafo sua escolha, incluindo também informações básicas sobre a base (fonte, metodologia de coleta, data de atualização e limitações mais evidentes).
+### 1.Escolha ao menos uma base de dados pública para trabalhar. Justifique em um parágrafo sua escolha, incluindo também informações básicas sobre a base (fonte, metodologia de coleta, data de atualização e limitações mais evidentes).
 a) Escolhemos a base de dados do SINASC - Sistema de Informações sobre Nascidos Vivos, na versão tratada pela Plataforma de Ciência de Dados aplicada à Saúde (PCDaS), da Fiocruz. 
 b) A escolha se deu pelo interesse do grupo no tema da natalidade e pelo fato de se tratar de uma base já tratada, padronizada e enriquecida pela equipe da Fiocruz.
 c) Os dados originais provêm do DATASUS e são obtidos a partir da coleta da “Declaração de Nascidos Vivos” (DN), documento padrão e de preenchimento obrigatório em todo o território nacional.
