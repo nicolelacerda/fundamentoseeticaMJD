@@ -95,3 +95,13 @@ b) Não foi possível identificar correlação específica entre a proporção d
 c) Tampouco foi possível identificar possíveis efeitos da pandemia sobre essas proporções, visto que as linhas dos 3 anos analisados (2019, 2020 e 2021) são bastante similares.
 
 d) Especialistas alegam que não é admitido fazer uma cesariana antes das 39 semanas de gestação - quando não tem recomendação médica. Mas o Brasil tem um elevado índice de cesarianas sem indicação. A ideia da nossa pauta seria mostrar quando se concentram essas cesáreas. Segundo médicos que conversamos, na saúde suplementar, principalmente, é muito comum um obstetra fazer 4 ou 5 cesáreas no mesmo dia, porque existe a possibilidade de agendamento. Isso sugere um possível comodismo entre os profissionais de saúde, que não respeitam o tempo natural do trabalho de parto e optam pela facilidade. Com isso, médicos marcam cesáreas antes do período certo e isso pode afetar a saúde do bebê e da mãe.
+
+
+**CONTATO DA EQUIPE**
+
+Gabriela Bertolo (bertologabriela@gmail.com)
+Melissa Duarte (eumelissaduarte@gmail.com)
+Michelly Neris (michelly.neris.jor@gmail.com)
+Nicole Lacerda (nicole.lacerda05@gmail.com)
+Paulo Fehlauer (paulofeh@gmail.com)
+
