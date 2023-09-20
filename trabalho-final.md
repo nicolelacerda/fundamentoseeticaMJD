@@ -4,7 +4,7 @@
 
 **Professores: Luiz Fernando Toledo e Natália Mazotte** 
 
-PROJETO: ENTREVISTANDO DADOS 
+PROJETO: ENTREVISTANDO DADOS  
 
 **O objetivo do projeto final é demonstrar conhecimentos aplicados de entrevista a bases de dados utilizando planilha eletrônica e/ou SQL.** Para isso, você deverá seguir os passos abaixo:
 
