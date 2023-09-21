@@ -9,7 +9,7 @@ PROJETO: ENTREVISTANDO DADOS
 **O objetivo do projeto final é demonstrar conhecimentos aplicados de entrevista a bases de dados utilizando planilha eletrônica e/ou SQL.** Para isso, você deverá seguir os passos abaixo:
 
 
-### 1.Escolha ao menos uma base de dados pública para trabalhar. Justifique em um parágrafo sua escolha, incluindo também informações básicas sobre a base (fonte, metodologia de coleta, data de atualização e limitações mais evidentes).**
+### 1.Escolha ao menos uma base de dados pública para trabalhar. Justifique em um parágrafo sua escolha, incluindo também informações básicas sobre a base (fonte, metodologia de coleta, data de atualização e limitações mais evidentes).
 
 a) Escolhemos a base de dados do SINASC - Sistema de Informações sobre Nascidos Vivos, na versão tratada pela Plataforma de Ciência de Dados aplicada à Saúde (PCDaS), da Fiocruz. 
 
@@ -22,7 +22,7 @@ d) O tratamento feito pelo PCDaS resulta em um dataset anual com todos os regist
 e) Neste trabalho, optamos por restringir a análise ao estado de São Paulo e aos anos de 2019 a 2021.
 
 
-### 2.Crie um roteiro de entrevista para aplicar a essa base de dados.**
+### 2.Crie um roteiro de entrevista para aplicar a essa base de dados.
 
 a) Como se distribuem os partos natural e cesáreo ao longo da semana?
 b) Há alguma correlação entre a proporção de cesáreas e os finais de semana?
@@ -30,7 +30,7 @@ c) E entre a proporção de cesáreas e vésperas de feriados?
 d) Como a pandemia de Covid-19 afetou esse cenário?
 
 
-### 3.Documente no github as funções e cálculos aplicados para obter as respostas.**
+### 3.Documente no github as funções e cálculos aplicados para obter as respostas.
 
 a) Baixamos as bases de dados do SINASC em formato .csv disponíveis em https://pcdas.icict.fiocruz.br/conjunto-de-dados/sistema-de-informacao-sobre-nascidos-vivos/
 
