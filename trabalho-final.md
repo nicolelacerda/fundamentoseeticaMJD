@@ -77,7 +77,8 @@ Resulto: 365 linhas retornadas em 2575 ms
 ```
 d) Filtramos e agrupamos os dados por dia da semana e tipo de parto, repetindo o processo para cada ano, utilizando o seguinte código:
 
-```SELECT PARTO, dia_semana_nasc,
+```
+SELECT PARTO, dia_semana_nasc,
 count(*) as resultado
 from SP2019
 GROUP by dia_semana_nasc, PARTO
@@ -106,8 +107,12 @@ d) Especialistas alegam que não é admitido fazer uma cesariana antes das 39 se
 ### CONTATO DA EQUIPE
 
 Gabriela Bertolo (bertologabriela@gmail.com)
+
 Melissa Duarte (melissamod@al.insper.edu.br)
+
 Michelly Neris (michelly.neris.jor@gmail.com)
+
 Nicole Lacerda (nicole.lacerda05@gmail.com)
+
 Paulo Fehlauer (paulofeh@gmail.com)
 
