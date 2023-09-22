@@ -39,7 +39,8 @@ ETLSINASC.DNRES_SP_2021_t.csv
 
 c) Filtramos e agrupamos os dados por data de nascimento e tipo de parto, repetindo o processo para cada ano, utilizando o seguinte código:
 
-```EXECUTANDO TUDO EM 'estrutura da tabela'
+```
+EXECUTANDO TUDO EM 'estrutura da tabela'
 
 Na linha 1:
 SELECT * 
