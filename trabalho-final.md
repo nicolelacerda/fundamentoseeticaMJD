@@ -1,12 +1,10 @@
 **Trabalho Final da disciplina Fundamentos e Ética do Jornalismo de Dados, do Master em Jornalismo de Dados, Automação e Data Storytelling, do Insper**
 
-**Integrantes do grupo: Gabriela Bertolo, Melissa Duarte, Michelly Neris, Nicole Lacerda e Paulo Fehlauer**
+Integrantes do grupo: Gabriela Bertolo, Melissa Duarte, Michelly Neris, Nicole Lacerda e Paulo Fehlauer
 
-**Professores: Luiz Fernando Toledo e Natália Mazotte** 
+Professores: Luiz Fernando Toledo e Natália Mazotte
 
-PROJETO: ENTREVISTANDO DADOS 
-
-**O objetivo do projeto final é demonstrar conhecimentos aplicados de entrevista a bases de dados utilizando planilha eletrônica e/ou SQL.** Para isso, você deverá seguir os passos abaixo:
+**O objetivo do projeto final é demonstrar conhecimentos aplicados de entrevista a bases de dados utilizando planilha eletrônica e/ou SQL.** 
 
 
 ### 1.Escolha ao menos uma base de dados pública para trabalhar. Justifique em um parágrafo sua escolha, incluindo também informações básicas sobre a base (fonte, metodologia de coleta, data de atualização e limitações mais evidentes).
@@ -19,7 +17,7 @@ c) Os dados originais provêm do DATASUS e são obtidos a partir da coleta da �
 
 d) O tratamento feito pelo PCDaS resulta em um dataset anual com todos os registros das declarações de nascidos vivos contidas no SINASC. Os dados disponíveis hoje no sistema compreendem os anos de 1996 a 2021 e as bases são entregues em formato .csv separadas por estado e ano. 
 
-e) Neste trabalho, optamos por restringir a análise ao estado de São Paulo e aos anos de 2019 a 2021.
+e) Por conta do tamanho das bases de dados, optamos por restringir a análise ao estado de São Paulo, entre 2019 e 2021.
 
 
 ### 2.Crie um roteiro de entrevista para aplicar a essa base de dados.
@@ -75,10 +73,18 @@ FROM
     SP2021
 GROUP BY 
     DTNASC;
-Resulto: 365 linhas retornadas em 2575 ms```
+Resulto: 365 linhas retornadas em 2575 ms
+```
+d) Filtramos e agrupamos os dados por dia da semana e tipo de parto, repetindo o processo para cada ano, utilizando o seguinte código:
 
+```SELECT PARTO, dia_semana_nasc,
+count(*) as resultado
+from SP2019
+GROUP by dia_semana_nasc, PARTO
+ORDER by PARTO
+```
 
-d) Exportamos os dados obtidos para o formato .csv e importamos em uma planilha do Google Sheets, realizando as seguintes operações:
+e) Exportamos os dados obtidos para o formato .csv e importamos em uma planilha do Google Sheets, realizando as seguintes operações:
 - Na planilha organizada por dia do ano, transformamos os dados originais para um formato que permitisse a ordenação cronológica, utilizando as fórmulas RIGHT, MID e JOIN.
 - Calculamos a proporção de cesáreas em relação ao total de nascidos em cada dia.
 - Plotamos as proporções em um gráfico de linha do tempo: https://docs.google.com/spreadsheets/d/1ub0e5jqcROehEkE-APDfoZ3aIwgQhjdL_u8GTZRh6_U/edit?usp=sharing
